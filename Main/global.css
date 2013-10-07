@@ -1,0 +1,62 @@
+html, body{
+	padding: 0;
+	margin: 0;
+	background-color: #f0eee4;/*#e3e3e3;*/
+}
+
+.nametitle{
+	background-image: url('../Images/cornellcampus5.jpg');
+	width: 1040px;
+	height: 150px;
+	font-size:14px;
+}
+
+.nametitle h1{
+	position: relative;
+	left: 100px;
+	top: 30px;
+	font-family: Tangerine, serif;
+	font-style:italic;
+	color:#B22222;
+	margin: 0;
+
+}
+
+.container{
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 1040px;
+	/*background-color: red;*/
+}
+
+.navbar ul{
+	list-style-type:none;
+	overflow:hidden;
+	/*background-color: #ace63b;*/
+	padding: 0;
+	margin: 0;
+	background-color:#b31b1b;
+	}
+.navbar ul li{
+	float:left;
+	}
+	
+.navbar ul li a{
+	display:block;
+	width:200px;
+	font-weight:bold;
+	background-color:#b31b1b;
+	text-align:center;
+	padding:4px;
+    text-decoration:none;
+}
+.navbar ul li a:link, a:visited{
+	
+	color:#FFFFFF;
+	
+	}
+.navbar ul li a:hover{
+	color: #827b7b; /*red;*/	
+}

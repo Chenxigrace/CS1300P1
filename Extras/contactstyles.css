@@ -1,0 +1,27 @@
+.skills{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding: 20px;
+}
+
+.skills a{
+	color:#000000;
+}
+
+.subhead{
+	font-weight: bold;
+}
+
+.content{
+	padding-left: 20px;
+}
+
+img.logo{
+	width: 40px;
+	height: 40px;
+	padding: 10px;
+}
+
+.links{
+	padding-left: 20px;
+}

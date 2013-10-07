@@ -1,0 +1,32 @@
+
+.skills{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding: 20px;
+}
+
+.skills a{
+	color:#000000;
+}
+
+.subhead{
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+.category{
+	font-style:italic;
+	font-weight: bold;
+	color:#B22222;
+}
+
+.projectintro{
+	padding-left: 30px;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.proname{
+	font-style:italic;
+	padding-left: 30px;
+}
